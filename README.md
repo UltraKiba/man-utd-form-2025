@@ -11,7 +11,6 @@ A data analytics project examining Manchester United's win/loss trends and playe
 
 ## 📊 Visualizations
 
-📥 Download the [visualizations Excel file](./man_utd_visualizations.xlsx) containing:
 - Cumulative Premier League points over time
 - Goals scored over time by Bruno Fernandes, Amad Diallo, and Alejandro Garnacho
 
